@@ -1,0 +1,4 @@
+ip=speedport.ip
+username=admin
+password=yourpassword
+csv=true
